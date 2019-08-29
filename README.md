@@ -1,3 +1,3 @@
 # Blog
 
-This blog will record my life of PHD in AMSS.
+This blog will record my growthin the life of AMSS.
