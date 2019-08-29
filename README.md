@@ -1,3 +1,3 @@
 # Blog
 
-This blog will record my growthin the life of AMSS.
+This blog will record my growth in the life of AMSS.
