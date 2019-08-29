@@ -1,3 +1,4 @@
 # Blog
-materials for blogs
+materials for blogs.
+
 This blog will record my life of PHD in AMSS.
