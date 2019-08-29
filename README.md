@@ -1,2 +1,3 @@
 # Blog
-materials for blogs
+
+This blog will record my growth in the life of AMSS.
