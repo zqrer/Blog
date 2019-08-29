@@ -1,3 +1,2 @@
 # Blog
-
-This blog will record my growth in the life of AMSS.
+Welocom to Jessica's Blog!
